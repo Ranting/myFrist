@@ -3,16 +3,24 @@ body {
     margin: 0; 
 }
 .warp {
-    margin:0 auto;
+    /*margin:0 auto;
     width: 90%;
-    padding-bottom: 90%; 
+    padding-bottom: 90%; */ 
+    padding: 3% 0 0 3%; 
 }
 .box {
     /*width: 26%;
-    padding-bottom: 26%; */   
+    padding-bottom: 26%;  
     padding: 15%;    
     background-color: #fea500;
     float: left;
     margin: 1%;
-    border-radius: 8%;
+    border-radius: 8%; */ 
+    
+    float: left;
+    padding: 30% 0 0 0;
+    margin: 0 3% 3% 0;
+    width: 30%;
+    background: orange;
+    border-radius: 10px;
 }
