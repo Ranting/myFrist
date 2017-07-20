@@ -1,0 +1,27 @@
+body{
+    background-color: #68cdd5;
+    color:white;
+}
+.head{
+    height: 100px;
+}
+.container{
+    height: 229px;
+    margin:0 auto;
+}
+.img{
+    text-align:center;
+}
+.text{
+    text-align:center; 
+}
+.foot{
+    height: 100px;
+    margin:0 auto;
+}
+.foot_img{
+    width: 50%;
+    float: left;
+    height: 100px;
+    text-align:center;
+}
